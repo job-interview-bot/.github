@@ -1,2 +1,2 @@
-# .github
+# Job Interview Bot
 Overview
